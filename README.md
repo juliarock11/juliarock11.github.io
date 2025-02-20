@@ -6,4 +6,4 @@ My [instagram](https://www.instagram.com/jules.reads.books?igsh=MTl1MnNha2tmeTI3
 
 ## Lehigh University Enrollment by College
 With data from [The Office of Institutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) I created this pie chart which shows enrollment in Lehigh University by college, with percents for each. This graphic was created on Canva.  
-![info](https://github.com/juliarock11/juliarock11.github.io/blob/main/Info.png)
+![info](https://github.com/juliarock11/juliarock11.github.io/blob/main/Info.png?raw=true)

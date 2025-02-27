@@ -14,3 +14,8 @@ With data from the [US Census](https://data.census.gov/profile/Bethlehem_city,_P
 
 ## Lehigh-Lafayette Rivalry Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jMF67cvQMjzUr0NOeRAfTD0y8Ho6UP4NPu53b0ugJRY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
+## Taylor Swift Timeline of Albums and Tours
+
+I made this timeline of Taylor Swift's album releases and tours with Timeline JS. The data came from [Wikipedia](https://en.wikipedia.org/wiki/Taylor_Swift). 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Vx1Gn3CWAsFzQm5moPWlkEr76efxj1dBnH7FIA9L6_s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>

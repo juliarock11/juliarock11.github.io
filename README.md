@@ -19,3 +19,6 @@ With data from the [US Census](https://data.census.gov/profile/Bethlehem_city,_P
 
 I made this timeline of Taylor Swift's album releases and tours with Timeline JS. The data came from [Wikipedia](https://en.wikipedia.org/wiki/Taylor_Swift). 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Vx1Gn3CWAsFzQm5moPWlkEr76efxj1dBnH7FIA9L6_s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Lehigh University Enrollment by College Fall 2024
+With data from [The Office of Institutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) I created this bar chart with Chartbuilder which shows enrollment at Lehigh by college. 

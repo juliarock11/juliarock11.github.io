@@ -13,7 +13,7 @@ With data from the [US Census](https://data.census.gov/profile/Bethlehem_city,_P
 ![ethnicity](https://github.com/juliarock11/juliarock11.github.io/blob/main/ethnicity.png?raw=true) 
 
 ## Lehigh-Lafayette Rivalry Timeline
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jMF67cvQMjzUr0NOeRAfTD0y8Ho6UP4NPu53b0ugJRY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vRP3MTaBR8Mqo4dX332977-C54jeYwWIT9mpJm60FR9oQiy8Yh5Z3buMigFkvKzSmnMJTGUzBprsDGT&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Taylor Swift Timeline of Albums and Tours
 

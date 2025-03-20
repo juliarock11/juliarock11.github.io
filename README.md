@@ -29,9 +29,9 @@ With data from [Cosmopolitan](https://www.cosmopolitan.com/uk/entertainment/a444
 ![chart2](https://github.com/juliarock11/juliarock11.github.io/blob/main/chart2.png?raw=true)
 
 ## Top 20 Cities for Cycling 2019
-
+This is a map of the top 20 cities for cycling in 2019. Data from Wired Magazine, map made by me using Google mymaps. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1FZ3tMUptcYugGNV8d9zoJYmzPTVLnlY&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## 9 Biggest St Patrick's Day Parades in the US
-
+This is a map of the 9 biggest St Patrick's Day Parades in the US in 2025. Data from The Irish Road Trip, map made by me with Google mymaps.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NFecH6Lmtzh2CcHYAbiF_3YvklrtmC0&ehbc=2E312F" width="640" height="480"></iframe>

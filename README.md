@@ -27,3 +27,7 @@ With data from [The Office of Institutional Data](https://data.lehigh.edu/sites/
 ## Taylor Swift Albums by Run Time
 With data from [Cosmopolitan](https://www.cosmopolitan.com/uk/entertainment/a44471722/taylor-swift-albums/) I created this bar chart to show Swift's first six albums by run time. Chart made using Chartbuilder. 
 ![chart2](https://github.com/juliarock11/juliarock11.github.io/blob/main/chart2.png?raw=true)
+
+## Top 20 Cities for Cycling 2019
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1FZ3tMUptcYugGNV8d9zoJYmzPTVLnlY&ehbc=2E312F" width="640" height="480"></iframe>
